@@ -1,0 +1,3 @@
+packages = [ "pandas",]
+[files]
+"main.py" = "main.py"
